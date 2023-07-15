@@ -1,0 +1,27 @@
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.form input {
+    width: 100%;
+    margin-bottom: 5px;
+    border: 2px solid #b0adad;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 3px;
+}
+.form button {
+    margin-right: 15px;
+    background-color: #4331a4;
+    color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 3px;
+}
